@@ -34,7 +34,7 @@ I am Tian Jinyu, a student majoring in Internet of Things Engineering at the Sch
 
 - **LLM Impact Prediction**: Large Language Models in Citation Prediction
 - **Medical AI Agents**: LangChain Framework & Drug Databases
-- **AI for research**
+- **AI for research**: Newborn Aiticle Impact Prediction(NAIP)
 
 #### :computer: Programming languages and tools :computer: : 
 
