@@ -26,15 +26,8 @@ I am Tian Jinyu, a student majoring in Internet of Things Engineering at the Sch
 
 #### 🌱 Things I am currently working on 🌱 : 
 
-- **ScImpactPredict**: Predicting the impact of academic papers based on LLMs,Please refer to the [ScImpactPredict](https://github.com/1Reminding/ScImpactPredict) for more details.
-- **MediChain-LLM-Agent**: Developing a specialized agent in the medical domain using the Langchain framework, with a frontend built in JavaScript. This agent provides precise medication recommendations based on patient symptoms and a custom-built drug database, offering more accurate and coherent results compared to general-purpose LLMs. Please refer to the [MediChain-LLM-Advisor](https://github.com/1Reminding/MediChain-LLM-Advisor) for more details.
-- [My website](https://1Reminding.github.io) 🚀 *coming soon*
-
-#### ⚡ Things recent ones I'm interested in ⚡ : 
-
-- **LLM Impact Prediction**: Large Language Models in Citation Prediction
-- **Medical AI Agents**: LangChain Framework & Drug Databases
-- **AI for research**: Newborn Aiticle Impact Prediction(NAIP)
+- **ScImpactPredict**: Predicting the impact of academic papers based on LLMs,Please refer to the [ScImpactPredict](https://github.com/Jassary08/ScImpactPredict) for more details.
+- **NAIPv2**：We are currently working on multimodal interpretability for academic paper impact prediction—stay tuned for updates!
 
 #### :computer: Programming languages and tools :computer: : 
 
