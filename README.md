@@ -34,15 +34,12 @@ I am Tian Jinyu, a student majoring in Internet of Things Engineering at the Sch
 <p>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <br />
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="100" height="45" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
