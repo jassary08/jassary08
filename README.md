@@ -59,7 +59,6 @@ I am Tian Jinyu, a student majoring in Internet of Things Engineering at the Sch
 </div>
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/jassary08/count.svg">  
 
 Counting of visitors to this page in this section started from March 27, 2024
 <a href="https://info.flagcounter.com/7gPS"><img src="https://s11.flagcounter.com/map/7gPS/size_l/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
