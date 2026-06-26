@@ -4,12 +4,9 @@
   <img src="https://media1.tenor.com/m/sTFc7j1xRJ0AAAAd/doge-dancing-doge.gif" width="140" alt="Doge dancing" />
 </p>
 
-<p align="center">
-  <em>Training agents by day, playing guitar by night.</em>
-</p>
 
 * B.Eng. student in Internet of Things Engineering at Nankai University
-* First-year Ph.D. student at Shanghai Innovation Institute, Fudan University, jointly advised with OpenMOSS
+* First-year Ph.D. student at Shanghai Innovation Institute, Fudan University@OpenMOSS
 * I train agents, tune policies, and occasionally tune my guitar.
 
 ## GitHub Activity
